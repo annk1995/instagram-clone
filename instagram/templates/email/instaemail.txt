@@ -1,0 +1,7 @@
+Hello {{name}},
+This web-app that emulates the operation of the instagram. Play around and update your profile, 
+make post(s), <br> comment(s), like and share posts. Also you may follow and unfollow idividuals.
+Try it!!
+
+kabui kariuki,
+https://github.com/annk1995
